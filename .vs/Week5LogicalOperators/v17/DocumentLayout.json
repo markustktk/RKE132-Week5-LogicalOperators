@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73844DB2-B693-4D3B-B3E4-ABAC38D3A172}|ANDRanges\\ANDRanges.csproj|c:\\users\\marku\\source\\repos\\week5logicaloperators\\andranges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73844DB2-B693-4D3B-B3E4-ABAC38D3A172}|ANDRanges\\ANDRanges.csproj|solutionrelative:andranges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415F7BD0-8171-470B-AD1D-05664FEDB066}|OROperator\\OROperator.csproj|c:\\users\\marku\\source\\repos\\week5logicaloperators\\oroperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415F7BD0-8171-470B-AD1D-05664FEDB066}|OROperator\\OROperator.csproj|solutionrelative:oroperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1838D723-4B84-4714-AEDE-37597C62311D}|Week5LogicalOperators\\Week5LogicalOperators.csproj|c:\\users\\marku\\source\\repos\\week5logicaloperators\\week5logicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1838D723-4B84-4714-AEDE-37597C62311D}|Week5LogicalOperators\\Week5LogicalOperators.csproj|solutionrelative:week5logicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\ANDRanges\\Program.cs",
+              "RelativeDocumentMoniker": "ANDRanges\\Program.cs",
+              "ToolTip": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\ANDRanges\\Program.cs",
+              "RelativeToolTip": "ANDRanges\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:05:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\OROperator\\Program.cs",
+              "RelativeDocumentMoniker": "OROperator\\Program.cs",
+              "ToolTip": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\OROperator\\Program.cs",
+              "RelativeToolTip": "OROperator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:57:17.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\Week5LogicalOperators\\Program.cs",
+              "RelativeDocumentMoniker": "Week5LogicalOperators\\Program.cs",
+              "ToolTip": "C:\\Users\\marku\\source\\repos\\Week5LogicalOperators\\Week5LogicalOperators\\Program.cs",
+              "RelativeToolTip": "Week5LogicalOperators\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:51:11.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
